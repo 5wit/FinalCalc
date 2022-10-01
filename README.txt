@@ -1,5 +1,5 @@
 /*****************************************************************************
- * Copyright (C) Shubham S. Wadhe
+ * Copyright (C) 
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU Lesser General Public License as published by
@@ -22,9 +22,6 @@
 			=================================================================
 			
 			A project by : 
-					Shubham Wadhe
-					111408064
-					SYIT(s4)
 					
 Objectives :-
 
